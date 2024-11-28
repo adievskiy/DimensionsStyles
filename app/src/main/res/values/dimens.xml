@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Text Size-->
+    <dimen name="textSmall">8sp</dimen>
+    <dimen name="textNormal">16sp</dimen>
+    <dimen name="textLarge">24sp</dimen>
+
+    <!--Margin-->
+    <dimen name="marginLeft">8dp</dimen>
+    <dimen name="marginRight">8dp</dimen>
+    <dimen name="marginTop">8dp</dimen>
+    <dimen name="marginBottom">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+
+    <!--Padding-->
+    <dimen name="paddingLeft">10dp</dimen>
+    <dimen name="paddingRight">10dp</dimen>
+    <dimen name="paddingTop">10dp</dimen>
+    <dimen name="paddingBottom">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+</resources>
